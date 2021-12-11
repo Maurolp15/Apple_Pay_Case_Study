@@ -30,6 +30,8 @@ The two other mayor players in the industry are Samsung Pay which is powered vy 
 ---
 
 ## Results
+
+  sdfsdfs
   
 ---
 
@@ -37,8 +39,11 @@ The two other mayor players in the industry are Samsung Pay which is powered vy 
 
   As an Apple Pay advisor, I would suggest the implementation of “Money Transfers” between user’s worldwide and the implementation of an “Automated Payment System” using any fiat or crypto currency in a systems like blockchain. These services would expand the landscape in which the company is currently stablish, these services would also help Apple users process said transactions easier and faster, protecting their privacy as with any other operation through Apple Pay while cutting third party vendors.
   
+---
   
 ## Contributions
+  
+  xcvxcv
   
 
   
