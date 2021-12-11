@@ -1,8 +1,5 @@
 # <p align="center"> **APPLE PAY**
-    
----
-    
-# **The Past, The Present, The Future of Digital Payment!** #
+# The Past, The Present, The Future of Digital Payment! #
 
 ---
 
