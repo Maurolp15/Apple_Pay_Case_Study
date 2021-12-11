@@ -8,7 +8,7 @@
 
 ## Overview and Origin:
 
-Apple was created as a computer system-based company by Steve Jobs (who left the company in 2011) and Steve Wazniak, (who left the company in 1986). As Apple’s technology and projects grew, the company implemented a very successful expansion in the mobile world: The iPhone. By the time the iPhone 6 was launched in 2016, it gave clients a revolutionary method of mobile payment and digital wallet systems called Apple Pay. Tim Cook, Apple’s CEO partnered with American Express, Visa, and Mastercard since 2013 to develop the system.
+Apple was created as a computer system-based company by Steve Jobs, who left the company in 2011, and Steve Wazniak, who left the company in 1986. As Apple’s technology and projects grew, the company implemented a very successful expansion in the mobile world: The iPhone. By the time the iPhone 6 was launched in 2016, it gave clients a revolutionary method of mobile payment and digital wallet systems called Apple Pay. Timothy Cook, Apple’s CEO since 2011 partnered with American Express, Visa, and Mastercard since 2013 to develop the system.
 
 ---
 
@@ -18,13 +18,12 @@ Thru implementing Apple pay, the company is transforming the transactions proces
 The biggest advantage of Apple pay is that the system can not be used with any other devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and webs, controlling the market.
 Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps the user’s payment information private by replacing the Credit or Debit Card's numbers with a “dynamic security code” generated for each transaction, Apple stays away from the transaction between the vendor, the bank and the costumer. Apple Pay also uses EMV-mode to support the use of “Costumer Devise Cardholder Verification Method” by using touch ID, Face ID or the phone’s / Apple watch passwords in the consumer's device.
 
----
-
 ![<Tokenization>](<https://upload.wikimedia.org/wikipedia/commons/3/3e/How_mobile_payment_tokenization_works.png>)
 
 ---
 
 ## Landscape
+
 Apple Pay is in the digital wallet financial industry, one of the biggest innovations of Apple pay is the Apple Card which is both a physical and virtual card powered by Goldman Sachs bank and Mastercard offering 1% cashback on the physical card, 2% on your smartphone and 3% on any Apple products. The two other mayor players in the industry are Samsung Pay and Android Pay
 
 ## Results
