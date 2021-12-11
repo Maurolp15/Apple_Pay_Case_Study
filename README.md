@@ -8,13 +8,13 @@
 
 ## Overview and Origin
   
-  Apple was created as a computer system-based corporation by Steve Jobs, who left the company in 2011, and Steve Wazniak, who also left the company in 1986. As Apple’s technology and projects grew, the company implemented a very successful expansion in the mobile world: The iPhone. By the time the iPhone 6 was launched in 2016, it gave clients a revolutionary method of mobile payment and digital wallet systems called Apple Pay. Timothy Cook, Apple’s CEO since 2011 partnered with American Express, Visa, and Mastercard since 2013 to develop the system.
+  Apple was created as a computer system-based corporation by Steve Jobs, who left the company in 2011, and Steve Wazniak, who also left the company in 1986. As Apple’s technology grew and projects developed, the company implemented a very successful expansion in the mobile world: The iPhone. By the time the iPhone 6 was launched in 2016, it gave clients a revolutionary method of mobile payment and digital wallet systems called Apple Pay. Timothy Cook, Apple’s CEO since 2011 partnered in 2013 with American Express, Visa, and Mastercard to develop the system.
 
 ---
 
-## Business Activities and Results
+## Business Activities
   
-  Thru implementing Apple pay, the company is transforming the transactions process wolrd by offering protection to the user’s personal information, the user’s privacy, by making transactions process faster and easier with touchless connections and worldwide commercial reach. Research from www.statista.com  shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
+  Thru implementing Apple pay, the company is transforming the transactions process wolrdwide by offering protection to the user’s personal information, the user’s privacy, by making transactions process faster and easier with touchless connections and worldwide commercial reach. Research from www.statista.com  shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
 The biggest advantage of Apple pay is that the system can not be used with any other devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and webs, controlling the market.
 Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps the user’s payment information private by replacing the Credit or Debit Card's numbers with a “dynamic security code” generated for each transaction, Apple stays away from the transaction between the vendor, the bank and the costumer. Apple Pay also uses EMV-mode to support the use of “Costumer Devise Cardholder Verification Method” by using touch ID, Face ID or the phone’s / Apple watch passwords in the consumer's device.
 
