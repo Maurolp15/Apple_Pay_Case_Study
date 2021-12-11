@@ -1,4 +1,4 @@
-# <p align="center"> APPLE PAY
+# <p align="center"> **APPLE PAY**
     
 ---
     
