@@ -3,7 +3,7 @@
 # APPLE PAY
 # The Past, The Present, The Future of Digital Payment!
 
-![Apple Pay>](https://www.reuters.com/resizer/q2XiQG4hQEy7zDY8661RzZa5VbY=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LU3DJC6JPRKQDNC2VXM6L3ZNO4.jpg]
+![Apple Pay>](https://www.reuters.com/resizer/q2XiQG4hQEy7zDY8661RzZa5VbY=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LU3DJC6JPRKQDNC2VXM6L3ZNO4.jpg)
 
 
 
