@@ -1,4 +1,4 @@
-<text align="center> <# **APPLE PAY** #>
+<align="center> <# **APPLE PAY** #>
 # **The Past, The Present, The Future of Digital Payment!** #
 
 ---
