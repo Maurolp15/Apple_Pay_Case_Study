@@ -25,7 +25,7 @@ Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps
 ## Landscape
   
   Apple Pay is in the digital wallet financial industry, one of the biggest innovations of Apple pay is the Apple Card which is both physical and virtual card powered by Goldman Sachs bank and Mastercard offering 1% cashback on the physical card, 2% on your smartphone and 3% on any Apple products.
-The two other mayor players in the industry are Samsung Pay which is powered vy Samsungs Electronics and Android Pay which is powered by Google.
+The two other mayor players in the industry are Samsung Pay which is powered by Samsungs Electronics and Android Pay which is powered by Google.
   
 ---
 
