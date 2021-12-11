@@ -14,9 +14,9 @@
 
 ## The Present
   
-  Through implementing Apple Pay, the company is transforming the payment transactions process wolrdwide by offering protection to the user’s personal information, the user’s privacy, by making payment transactions process faster and easier with touchless connections and worldwide commercial reach. Research from www.statista.com shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
+  Through implementing Apple Pay, the company is transforming the payment transactions process worLdwide by offering protection to the user’s personal information, the user’s privacy, by making payment transactions process faster and easier with touchless connections and global commercial reach. Research from www.statista.com shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
   
-The biggest advantage of Apple Pay is that the system can not be used with any other devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and webs, controlling the market.
+The biggest advantage of Apple Pay is that the system cannot be used with any other devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and webs, controlling the market.
   
 Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps the user’s payment information private by replacing the Credit or Debit Card's numbers with a “dynamic security code” generated for each transaction, Apple stays away from the transaction between the vendor, the bank and the consumer. Apple Pay also uses EMV-mode to support the use of “Costumer Devise Cardholder Verification Method” by using touch ID, Face ID, the phone’s password or the Apple watch passwords in the costumer's device.
 
@@ -27,13 +27,13 @@ Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps
 ## The Future
   
   Apple Pay is in the digital wallet financial industry, one of the biggest innovations of Apple pay is the Apple Card which is both physical and virtual card powered by Goldman Sachs bank and Mastercard offering 1% cashback on the physical card, 2% on your smartphone and 3% on any Apple products.
-The two other mayor players in the industry are Samsung Pay which is powered by Samsungs Electronics and Android Pay which is powered by Google.
+The two other mayor players in the industry are Samsung Pay which is powered by Samsung Electronics and Android Pay which is powered by Google.
 
-  As an Apple Pay advisor, I would suggest the implementation of “Money Transfers” between user’s worldwide and the implementation of an “Automated Payment System” using any fiat or crypto currency using a ledgeer system like blockchain. These services would expand the landscape in which the company is currently stablished, these services would also help Apple users process said transactions easier and faster, in a more inexpensive way while protecting their privacy as with any other operation through Apple Pay, it will also cut third party vendors like Xoom.com, Wester Union, and Remity just to name a few.
+  As an Apple Pay advisor, I would suggest the implementation of “Money Transfers” between user’s worldwide and the implementation of an “Automated Payment System” using any fiat or crypto currency using a ledger system like blockchain. These services would expand the landscape in which the company is currently stablished, these services would also help Apple users process said transactions easier and faster, in a more inexpensive way while protecting their privacy as with any other operation through Apple Pay, it will also cut third party vendors like Xoom.com, Wester Union, and Remity just to name a few.
   
 ---
   
-  In conclusion, Apple Pay is the leader system in mobile payment and digital wallets, the system is being required by the new generations in this fast pased world where connections with others are at the palm of your hand. Apple Pay is a pertinent tool for the era allowing consumers to feel security, have privacy, optimize time and shorten distances. 
+  In conclusion, Apple Pay is the leader system in mobile payment and digital wallets, the system is being required by the new generations in this fast-paced world where connections with others are at the palm of your hand. Apple Pay is a pertinent tool for the new era allowing consumers to feel security, have privacy, optimize time and shorten distances in the world. 
   
 ---
   
