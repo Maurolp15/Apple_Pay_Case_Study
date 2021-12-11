@@ -16,7 +16,7 @@ Apple was created as a computer system-based company by Steve Jobs (who left the
 Thru implementing Apple pay, the company is revolutionizing the transactions process by offering protection to the user’s personal information, the user’s privacy, by making transactions process faster and easier with touchless connections and mayor commercial reach. Research from www.statista.com  shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate figures and banks are forbidden to share the user’s information.
 The biggest advantage of Apple pay is that the system can not be used under another devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and web. Apple Pay uses the EMV Payment Tokenization Specification, this technology keeps the user’ payment information private by replacing the Credit or Debit cards numbers with a “dynamic security code” generated for each transaction, Apple stays away from each transaction between the vendor, the bank and the costumer. Apple Pay uses EMV-mode to support the use of “Costumer Devise Cardholder Verification Method” by using touch ID, Face ID or the phone’s / Apple watch passwords.
 
-![<Tokenization>(<https://upload.wikimedia.org/wikipedia/commons/3/3e/How_mobile_payment_tokenization_works.png>)
+![<Tokenization>](<https://upload.wikimedia.org/wikipedia/commons/3/3e/How_mobile_payment_tokenization_works.png>)
 
 
 ## Landscape
@@ -26,3 +26,7 @@ Apple Pay is in the digital wallet financial industry, one of the biggest innova
 
 ## Recommendations 
 As an Apple Pay advisor, I would suggest the implementation of “Money Transfers” between user’s worldwide and the implementation of an “Automated Payment System” using any fiat or crypto currency in a systems like blockchain. These services would expand the landscape in which the company is currently stablish, these services would also help Apple users process said transactions easier and faster, protecting their privacy as with any other operation through Apple Pay while cutting third party vendors.
+  
+## Constibutins 
+  
+  
