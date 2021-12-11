@@ -41,10 +41,17 @@ The two other mayor players in the industry are Samsung Pay which is powered vy 
   
 ---
   
-## Contributions
+## Sources
   
-  xcvxcv
+  https://guides.loc.gov/this-month-in-business-history/april/apple-computers-founded
   
-
+  https://upload.wikimedia.org/wikipedia/commons/3/3e/How_mobile_payment_tokenization_works.png 
   
+  https://en.m.wikipedia.org/wiki/Apple_Pay
+  
+  https://www.statista.com/statistics/911914/number-apple-pay-users/
+  
+  https://www.macrumors.com/roundup/apple-pay/
+  
+  https://verdict-payments.nridigital.com/verdict_payments_may19/apple_card_the_greatest_innovation_in_50_years_or_nothing_in_its_core
   
