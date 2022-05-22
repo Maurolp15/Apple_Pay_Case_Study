@@ -51,3 +51,5 @@ The two other mayor players in the industry are Samsung Pay which is powered by 
   
   https://verdict-payments.nridigital.com/verdict_payments_may19/apple_card_the_greatest_innovation_in_50_years_or_nothing_in_its_core
   
+  ## !
+  
