@@ -31,11 +31,11 @@ The two other mayor players in the industry are Samsung Pay which is powered by 
 
   As an Apple Pay advisor, I would suggest the implementation of “Money Transfers” between user’s worldwide and the implementation of an “Automated Payment System” using any fiat or crypto currency using a ledger system like blockchain. These services would expand the landscape in which the company is currently stablished, these services would also help Apple users process said transactions easier and faster, in a more inexpensive way while protecting their privacy as with any other operation through Apple Pay, it will also cut third party vendors like Xoom.com, Wester Union, and Remity just to name a few.
   
----
+----
   
   In conclusion, Apple Pay is the leader system in mobile payment and digital wallets, the system is being required by the new generations in this fast-paced world where connections with others are at the palm of your hand. Apple Pay is a pertinent tool for the new era allowing consumers to feel security, have privacy, optimize time and shorten distances in the world. 
   
----
+----
   
 ## Sources
   
