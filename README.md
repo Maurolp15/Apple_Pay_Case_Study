@@ -14,7 +14,7 @@
 
 ## The Present
   
-  Through implementing Apple Pay, the company is transforming the payment transactions process worLdwide by offering protection to the user’s personal information, the user’s privacy, by making payment transactions process faster and easier with touchless connections and global commercial reach. Research from www.statista.com shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
+  Through implementing Apple Pay, the company is transforming the payment transactions process worldwide by offering protection to the user’s personal information, the user’s privacy, by making payment transactions process faster and easier with touchless connections and global commercial reach. Research from www.statista.com shows that Apple has reached more than 507 million users in September 2020 globally, however, the site states that the statistics are an estimate as Apple does not communicate its figures and the banks are legally forbidden to share the user’s information.
   
 The biggest advantage of Apple Pay is that the system cannot be used with any other devised not made by Apple, Inc. The system lets only Apple operators make payments in different apps and webs, controlling the market.
   
